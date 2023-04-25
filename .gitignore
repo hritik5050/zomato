@@ -1,0 +1,3 @@
+{
+mongoURI = "mongodb+srv://dbuser:Ritik@123@cluster0.40etm.mongodb.net/DB-1?retryWrites=true&w=zomato";
+}
